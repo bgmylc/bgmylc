@@ -28,9 +28,9 @@
 </br>
 </br>
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgmylc&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
-</p>
+<p align="center">  
+   <img src="https://github-readme-stats.vercel.app/api?username=bgmylc&show_icons=true&theme=tokyonight" />  
+   </p>  
 <!--
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgmylc&layout=compact&theme=dark)
 -->
