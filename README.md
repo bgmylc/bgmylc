@@ -17,12 +17,22 @@
 
 <h3 align="left">Socials</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/begumyolcu/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="40" height="40"/>
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/begumyolcu/">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/begumylc">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+ </a>
+</p>
   
 </br>
 </br>
 
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgmylc&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
-
+</p>
 <!--
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgmylc&layout=compact&theme=dark)
 -->
