@@ -3,6 +3,7 @@
 <h3 align="left">👩🏻‍💻 Who Am I?</h3>
 
 * Actively working on Data Science with Python and Android Programming with Kotlin
+* Team Member @Android Student Club
 * Volunteering in few communities for both programming & entertainment 
 * Also have experience on Web Development with C# / .NET Core
 
