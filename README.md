@@ -16,8 +16,6 @@
   
 
 <h3 align="left">Socials</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/begumyolcu/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="40" height="40"/>
-
 <p align="left">
  <a href="https://www.linkedin.com/in/begumyolcu/">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
