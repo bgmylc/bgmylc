@@ -5,9 +5,10 @@
 <h3 align="left">👩🏻‍💻 Who Am I?</h3>
 
 * Actively working on Android Programming with Kotlin and Data Science
-* Team Member @Android Student Club
-* Volunteering in few communities for both programming & entertainment 
-* Also have experience on Web Development with C# / .NET Core
+* Team Member @Android Developers Group
+* A @Women Techmakers Ambassador
+* Co-organizer at @GDG Edirne
+* Also have previous experience on Web Development with C# / .NET Core
 
 </br>
 
