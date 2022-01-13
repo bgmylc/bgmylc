@@ -1,5 +1,7 @@
 <h1>Hi 👋🏻, I'm Begüm </h1>
 
+<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
+
 <h3 align="left">👩🏻‍💻 Who Am I?</h3>
 
 * Actively working on Android Programming with Kotlin and Data Science
