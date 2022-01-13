@@ -34,9 +34,13 @@
 </br>
 </br>
 
-<p align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=bgmylc&show_icons=true&theme=cobalt" />  
-   </p>  
+
+<p align="center">
+<a href="https://github.com/bgmylc">
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=bgmylc&show_icons=true&theme=cobalt" alt="begumylc"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmylc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgmylc&layout=compact&theme=dark)
 -->
