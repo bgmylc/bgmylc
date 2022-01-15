@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://github.com/bgmylc">
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=bgmylc&show_icons=true&theme=cobalt" alt="begumylc"/>
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmylc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmylc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
 <!--
