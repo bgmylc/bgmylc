@@ -43,7 +43,7 @@
   <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
  </a>
   <a href="https://medium.com/@begumylc">
-  <img align="center" alt="Medium" width="30px" src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" /> &nbsp; &nbsp;
+  <img align="center" alt="Medium" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" /> &nbsp; &nbsp;
  </a>
 </p>
   
