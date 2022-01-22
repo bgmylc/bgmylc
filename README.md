@@ -37,10 +37,13 @@
 <h3 align="left">Socials</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/begumyolcu/">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://twitter.com/begumylc">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+ </a>
+  <a href="https://medium.com/@begumylc">
+  <img align="center" alt="Medium" width="30px" src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" /> &nbsp; &nbsp;
  </a>
 </p>
   
