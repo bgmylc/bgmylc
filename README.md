@@ -4,15 +4,9 @@
 
 <h3 align="left">👩🏻‍💻 Who Am I?</h3>
 
-* Actively working on Android Programming with Kotlin and Data Management
-* Team Member @**Android Developers Group**
-* A @**Women Techmakers** Ambassador
-* Co-organizer at @**GDG Edirne**
-* Previous experience on Web Development with C# / .NET Core
-
+* Currently working as an Android Developer at VakıfBank 
+* **Women Techmakers** Ambassador
 </br>
-
-<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='200'/>
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -30,7 +24,6 @@
 <h3 align="left">Languages & Tools I Currently Learn</h3>
 <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4.svg?logo=jetpackcompose&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="#"><img alt="Oracle Data Integrator" src="https://img.shields.io/badge/-Oracle%20Data%20Integrator-F80000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-%20Firebase-FFCA28.svg?logo=firebase&logoColor=white"></a>
 
 
