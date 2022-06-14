@@ -18,7 +18,7 @@
 <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET-blue.svg?logo=.net&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-813588.svg?logo=csharp&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Matlab" src="https://img.shields.io/badge/-MATLAB-0099E5"></a>
+
 
   
 <h3 align="left">Languages & Tools I Currently Learn</h3>
