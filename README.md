@@ -1,6 +1,6 @@
 <h1>Hi 👋🏻, I'm Begüm </h1>
 
-<img align="left" src="https://media.giphy.com/media/j587kTTAIHDzMpKf60/giphy.gif" width='272'/>
+<img align="right" src="https://media.giphy.com/media/j587kTTAIHDzMpKf60/giphy.gif" width='272'/>
 
 <h3 align="left">👩🏻‍💻 Who Am I?</h3>
 
