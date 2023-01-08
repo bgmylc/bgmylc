@@ -15,9 +15,6 @@
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-A4373A.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET-blue.svg?logo=.net&logoColor=white"></a>
-<a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-813588.svg?logo=csharp&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 
   
